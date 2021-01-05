@@ -1,6 +1,4 @@
-last2
 sunshine
-nourhan
 123456
 12345
 123456789
@@ -8,11 +6,17 @@ password
 friends
 iloveyou
 654321
-michael
-ashley
+coffee
 qwerty
 111111
 iloveu
 loveme
-fuckyou
 123123
+winner
+enter
+flower
+h1h2h3
+2020
+33334000
+december
+stalker
