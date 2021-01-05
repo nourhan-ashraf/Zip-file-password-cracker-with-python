@@ -42,8 +42,8 @@ else:
             else:
                 print("ERROR! Wrong file type")
 
-                if FoundPass == "" and FoundListFile > 0:
-                    print("not found, try another list.")
+            if FoundPass == "" and FoundListFile > 0:
+                print("not found, try another list.")
     else:
         print("zip file does not have a password")
         print("extracting files...")
