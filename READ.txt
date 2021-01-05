@@ -1,0 +1,1 @@
+This code works only when this choice is being checked: "ZIP legancy encription" when the password is entered to the archieve file.
