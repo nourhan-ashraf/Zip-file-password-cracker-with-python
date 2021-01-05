@@ -1,7 +1,7 @@
 from zipfile import ZipFile
 
 zip = input("Enter zip file name: ")
-passw = "passlist.txt"
+passw = input("Enter password list file name: ")
 
 try:
     r = ZipFile(zip)
